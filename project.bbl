@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{bk:se}
+G.~E.~P. Box, J.~S. Hunter, and W.~G. Hunter.
+\newblock {\em Statistics for Experimenters: Design, Innovation, and
+  Discovery}.
+\newblock Wiley, 2nd edition, May 2005.
+
+\bibitem{bk:dae1}
+M.~H. Kutner, C.~Nachtsheim, J.~Neter, and W.~Li.
+\newblock {\em Applied Linear Statistical Models}.
+\newblock McGraw‐Hill, 5th edition, November 2004.
+
+\bibitem{bk:dae2}
+D.~C. Montgomery.
+\newblock {\em Design and Analysis of Experiments}.
+\newblock Wiley, 10th edition, July 2019.
+
+\bibitem{bk:ilra}
+D.~C. Montgomery, E.~A. Peck, and G.~G. Vining.
+\newblock {\em Introduction to Linear Regression Analysis}.
+\newblock Wiley, 5th edition, April 2012.
+
+\bibitem{ar:wang}
+P.~C. Wang.
+\newblock A simple method for obtaining minimum aberration designs.
+\newblock {\em Communications in Statistics - Theory and Methods},
+  39(18):3363--3370, September 2010.
+
+\end{thebibliography}
