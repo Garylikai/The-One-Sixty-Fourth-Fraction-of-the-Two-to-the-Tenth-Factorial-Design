@@ -4,7 +4,7 @@ An AMS 582 project from Fall 2021 designing and analyzing a 16-run, 10-factor, t
 
 ## Design
 
-The study uses a minimum-aberration \(2^{10-6}_{III}\) design with factors A–J and generators:
+The study uses a minimum-aberration $2^{10-6}_{III}$ design with factors A–J and generators:
 
 $$
 E=ABC,\quad F=BCD,\quad G=ACD,\quad H=ABD,\quad I=ABCD,\quad J=AB.
