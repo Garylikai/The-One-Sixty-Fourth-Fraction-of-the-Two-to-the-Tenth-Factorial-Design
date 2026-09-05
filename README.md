@@ -1,4 +1,4 @@
-# A One-Sixty-Fourth Fraction of a \(2^{10}\) Factorial Design
+# A One-Sixty-Fourth Fraction of a $2^{10}$ Factorial Design
 
 An AMS 582 project from Fall 2021 designing and analyzing a 16-run, 10-factor, two-level fractional factorial screening experiment.
 
