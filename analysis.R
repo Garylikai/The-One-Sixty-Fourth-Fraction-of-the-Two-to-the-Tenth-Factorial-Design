@@ -3,7 +3,6 @@ dsg <- FrF2(nruns = 16, nfactors = 10, factor.names = LETTERS[1:10],
             generators = c("ABC", "BCD", "ACD", "ABD", "ABCD", "AB"), 
             seed = 123)
 summary(dsg)
-write.csv(dsg, "dsg.csv")
 
 data <- read.csv("total22.csv", header = TRUE)
 data <- data[, -1]
