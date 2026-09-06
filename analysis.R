@@ -5,7 +5,7 @@ dsg <- FrF2(nruns = 16, nfactors = 10, factor.names = LETTERS[1:10],
 summary(dsg)
 write.csv(dsg, "dsg.csv")
 
-data <- read.csv("C:/Users/Gary/OneDrive - Stony Brook University/Course/AU21/AMS 582/Project/total22.csv", header = TRUE)
+data <- read.csv("total22.csv", header = TRUE)
 data <- data[, -1]
 summary(data)
 
